@@ -6,6 +6,8 @@
 - Language: golang
 - FlowAI works on branch: flowai/add-a-go-hello-world-program-20260921-115857-d6ebf251
 
+This project's own code is authoritative. Where the working tree disagrees with the stack above, follow the tree and say so in your report. Read the manifests and neighbouring files before adding a dependency or introducing a framework.
+
 ## Design record for this job (FlowAI)
 
 This job's agreed requirements, design and prior verdicts are files in this workspace.
